@@ -104,3 +104,12 @@ git config --global init.defaultBranch main
 git config --global --list
 git ini
 git init
+git add .
+git commit -m "Initial commit"
+git remote add origin https://github.com/kfaddah/events-app-external.git
+git push -u origin main
+git status
+git status
+git status
+git status
+git status
